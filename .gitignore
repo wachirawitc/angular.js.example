@@ -41,4 +41,7 @@ testem.log
 .DS_Store
 Thumbs.db
 src/app/service/*.js
+<<<<<<< HEAD
 src/app/constants/*.js
+=======
+>>>>>>> 649907bdfdcdf8037514faf8b67a0c04bd922338
